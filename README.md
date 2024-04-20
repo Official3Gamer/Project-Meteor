@@ -1,4 +1,4 @@
-# Project-Star
+# Project Meteor
 A Unity project based on the game gorilla tag made for android vr
 
 # Game Rules
